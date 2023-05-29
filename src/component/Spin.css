@@ -1,0 +1,11 @@
+.centered {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    margin: 0 auto;
+  }
+  .scale{
+    transform: scale(1.2);
+  }

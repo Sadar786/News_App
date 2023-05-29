@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jim Cramer",
+    "title": "Cramer: Apple, Amazon, Microsoft and Google will fuel the next rally — but not in the usual way - CNBC",
+    "description": "Unlike the trillions that vanished into thin crypto air, the money for the next upswing will come from four stocks with a combined $6 trillion to donate.",
+    "url": "https://www.cnbc.com/2022/12/11/cramer-apple-amazon-microsoft-and-google-will-fuel-the-next-rally.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107153158-1668671759945-gettyimages-1244789489-SKOREA_MICROSOFT.jpeg?v=1670807894&w=1920&h=1080",
+    "publishedAt": "2022-12-12T01:18:00Z",
+    "content": "To build a fire but not destroy the market by doing so.\r\nThat's the goal right now. It's not as easy as in the famous Jack London short story (\"Too Build a Fire\") where in the end the survivors profi… [+658 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SFGate"
+    },
+    "author": "Amanda Bartlett",
+    "title": "Hundreds of items to be auctioned off from Twitter's SF HQ - SFGATE",
+    "description": "Anyone who thinks the sales will cover Twitter’s cost-cutting measures is “a...",
+    "url": "https://www.sfgate.com/tech/article/Twitter-SF-headquarters-auction-17647004.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/30/57/20/23262254/3/rawImage.jpg",
+    "publishedAt": "2022-12-12T00:21:44Z",
+    "content": "A fleet of portable standing desks. Three kegerator beer dispensers. Two pedal-powered Rock the Bike phone recharging stations. A decorative planter of the @ symbol measuring over six feet tall.These… [+1798 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Fed's Message That Rates Will Stay on Hold for 'Some Time' Clashes With 2023 Rate-Cut Bets - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=aaf169b5-79b7-11ed-a5e4-47784578775a&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0xMS9mZWQtbWVzc2FnZS10aGF0LXJhdGVzLXdpbGwtc3BlbmQtc29tZS10aW1lLW9uLWhvbGQtY2xhc2hlcy13aXRoLXJhdGUtY3V0LWJldHM=",
+    "urlToImage": null,
+    "publishedAt": "2022-12-12T00:16:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Norah O'Donnell",
+    "title": "Treasury Secretary Janet Yellen on recession fears, inflation and the war in Ukraine - 60 Minutes - CBS News",
+    "description": "The treasury secretary tells Norah O'Donnell how she thinks the economy will fare in the coming year and what her department is doing to end the war in Ukraine.",
+    "url": "https://www.cbsnews.com/news/treasury-secretary-janet-yellen-recession-inflation-war-in-ukraine-2022-12-11/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/11/a5d18143-9213-422c-8a00-4033ee2c3ea2/thumbnail/1200x630/40a1e44c2c5c14159d24585f5fd55468/yellenarticle.jpg",
+    "publishedAt": "2022-12-11T23:58:14Z",
+    "content": "As inflation hovers at a 40-year high, the pandemic lingers, and the war in Ukraine rages, a growing number of economists and CEO's are saying the U.S. is headed for a recession.\r\nThe secretary of th… [+11767 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jesse Pound",
+    "title": "Stock futures slip to start the week with Fed meeting, key inflation data on deck - CNBC",
+    "description": "Wall Street is coming off a losing week, with the consumer price index due out on Tuesday and a rate decision from the Fed on Wednesday.",
+    "url": "https://www.cnbc.com/2022/12/11/stock-market-news-futures-open-to-close-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107162760-1670435846223-nys4.jpg?v=1670799787&w=1920&h=1080",
+    "publishedAt": "2022-12-11T23:52:00Z",
+    "content": "U.S. stock futures were modestly lower on Sunday evening ahead of a week with several anticipated events in the ongoing fight against inflation.\r\nFutures for the Dow Jones Industrial Average shed 50 … [+1425 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Futures Due: 2 Tests For Market Rally; 5 Stocks Setting Up - Investor's Business Daily",
+    "description": "This rally lures investors in to get roughed up repeatedly.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-inflation-report-federal-reserve-are-tests-for-market-rally/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2016/04/KPBLOG01-042516-shutterstock.jpg",
+    "publishedAt": "2022-12-11T23:30:00Z",
+    "content": "Dow Jones futures fell slightly Sunday evening, along with S&amp;P 500 futures and Nasdaq futures, with attention squarely on the CPI inflation report and the Federal Reserve.\r\nXThe stock market rall… [+10486 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Josh Marcus",
+    "title": "US scientists achieve ‘holy grail’ net gain nuclear fusion reaction: report - The Independent",
+    "description": "Nuclear fusion could be key tool to stave off climate crisis",
+    "url": "https://www.independent.co.uk/news/world/americas/nuclear-fusion-lawrence-livermore-laboratory-b2243247.html",
+    "urlToImage": "https://static.independent.co.uk/2022/12/11/22/P2394588-lg.jpeg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-12-11T23:11:50Z",
+    "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nUS scientists have reportedly carried out the first nuclear fusion expe… [+5229 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "What Happens To All Of The Old EV Batteries? - TopSpeed",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3LnRvcHNwZWVkLmNvbS93aGF0LWhhcHBlbnMtdG8tYWxsLW9mLXRoZS1vbGQtZXYtYmF0dGVyaWVzL9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-12-11T22:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Huileng Tan",
+    "title": "India is trying to become the new factory of the world - Business Insider",
+    "description": "China has managed to build up a value chain so extensive that almost everything required to make a product can be sourced and acquired in the country.",
+    "url": "https://www.businessinsider.com/china-india-supply-chain-covid-sanctions-manufacturers-relocating-tariffs-options-2022-12",
+    "urlToImage": "https://i.insider.com/638efb7e2cd2de0018d045ef?width=1200&format=jpeg",
+    "publishedAt": "2022-12-11T21:45:00Z",
+    "content": "China's zero-COVID policy may just be doing what Donald Trump didn't manage to fully achieve during his term as president shifting global supply chains away from China for the first time in 40 years.… [+5677 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Daily Hodl"
+    },
+    "author": "Daily Hodl Staff",
+    "title": "Two Upcoming Macro Events Could Crush Bitcoin (BTC), Says Analyst Nicholas Merten - The Daily Hodl",
+    "description": "Popular crypto analyst Nicholas Merten says the near-term fate of Bitcoin (BTC) over the coming weeks will depend on two key macroeconomic events.",
+    "url": "https://dailyhodl.com/2022/12/11/two-upcoming-macro-events-could-crush-bitcoin-btc-says-analyst-nicholas-merten/",
+    "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-kick-off-reversal.jpg",
+    "publishedAt": "2022-12-11T21:00:38Z",
+    "content": "Popular crypto analyst Nicholas Merten says the near-term fate of Bitcoin (BTC) over the coming weeks will depend on two key macroeconomic events.\r\nIn a new video update, the host of DataDash tells h… [+2017 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Eric Revell",
+    "title": "Arizona divesting pension funds from BlackRock over ESG push - Fox Business",
+    "description": "Arizona is divesting most of its state pension funds from BlackRock, joining a growing number of states in resisting the investment firm's push for ESG policies.",
+    "url": "https://www.foxbusiness.com/markets/arizona-divesting-pension-funds-from-blackrock-over-esg-push",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/blackrockoffice.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-11T20:45:50Z",
+    "content": "Arizona is forging ahead with its plan to divest its pension funds from BlackRock due to concerns over the massive investment firm's push for environmental, social, and governance (ESG) policies that… [+5499 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "The Editorial Board",
+    "title": "Vanguard Defects From the Climate Club - WSJ - The Wall Street Journal",
+    "description": "The index fund pioneer steps back from politicized investing.",
+    "url": "https://www.wsj.com/articles/vanguard-defects-from-the-climate-club-net-zero-asset-managers-pledge-11670618508",
+    "urlToImage": "https://images.wsj.net/im-683220/social",
+    "publishedAt": "2022-12-11T20:45:00Z",
+    "content": "Emperors of finance may finally be discovering that climate virtue-signaling isnt without costs. Credit to Vanguard last week for pulling out of the Net Zero Asset Managers (NZAM) pledge to purge fos… [+405 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ramishah Maruf",
+    "title": "Stellantis to idle Illinois plant, lay off more than 1,000 workers, citing rising costs for EVs - CNN",
+    "description": "Stellantis is shuttering its Illinois plant in February resulting in indefinite layoffs for 1,350 employees, the company said in a statement, citing increasing costs in the electric vehicle market.",
+    "url": "https://www.cnn.com/2022/12/11/business/stellantis-illinois-plant-layoffs/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221211120710-01-stellantis-plant-020212-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-11T20:41:00Z",
+    "content": "Stellantis is shuttering its Illinois plant in February resulting in indefinite layoffs for 1,350 employees, the company said in a statement, citing increasing costs in the electric vehicle market.\r\n… [+1787 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Ben Dummett, Dana Cimilluca, Laura Cooper",
+    "title": "Amgen in Advanced Talks to Buy Horizon Therapeutics - WSJ - The Wall Street Journal",
+    "description": "U.S. biotechnology company was the last of three suitors standing in an auction for Horizon",
+    "url": "https://www.wsj.com/articles/amgen-in-advanced-talks-to-buy-horizon-therapeutics-11670785882",
+    "urlToImage": "https://images.wsj.net/im-683444/social",
+    "publishedAt": "2022-12-11T20:37:00Z",
+    "content": "Amgen Inc. is in advanced talks to buy drug company Horizon Therapeutics PLC, according to people familiar with the matter, \r\nin a takeover likely to be valued at well over $20 billion and mark the l… [+221 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Bradford Betz",
+    "title": "FTX ex-CEO Sam Bankman-Fried says he wants to start a new business - Fox Business",
+    "description": "Sam Bankman-Fried, the disgraced founder of the failed crypto-exchange FTX, says he wants to start a new business to help his investors make back the money they lost in the crash.",
+    "url": "https://www.foxbusiness.com/technology/ftx-ex-ceo-sam-bankman-fried-wants-start-new-business",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/GettyImages-1232817889.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-11T19:59:26Z",
+    "content": "Sam Bankman-Fried, the disgraced former boss of the failed crypto-exchange FTX, said this week he hopes to start a new business to recoup his investors’ losses in the firm’s collapse. \r\nThe 30-year-o… [+2361 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cointelegraph"
+    },
+    "author": "Ana Paula Pereira",
+    "title": "Binance's proof of reserves raises red flags: Report - Cointelegraph",
+    "description": "Binance's efforts to improve its reserve transparency also exposed financial red flags.",
+    "url": "https://cointelegraph.com/news/binance-s-proof-of-reserves-raises-red-flags-report",
+    "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/b20efcaf-5fed-46b5-bd81-5330d35da730.jpg",
+    "publishedAt": "2022-12-11T19:41:33Z",
+    "content": "Binance's efforts to improve transparency of its reserves also exposed red flags in the crypto exchange's finances, according to accounting and financial specialists consulted by The Wall Street Jour… [+2771 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Richard Escobedo",
+    "title": "Dimon says Ukraine war should be \"turning point\" for U.S. on global stage - CBS News",
+    "description": "\"Maybe all this sort of self-illusion that we had, that somehow the world's at peace, and everything would be fine — that should have been shattered,\" the JPMorgan Chase CEO said.",
+    "url": "https://www.cbsnews.com/news/jamie-dimon-ukraine-turning-point-face-the-nation/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/11/786f40c4-967e-4cf0-ad12-5f064d2d3aaf/thumbnail/1200x630g2/649f933fa7c19b9a10c8f51a12512447/dimon.jpg",
+    "publishedAt": "2022-12-11T19:18:08Z",
+    "content": "Washington — Jamie Dimon, the CEO of JPMorgan Chase, America's largest bank, said the ongoing war in Ukraine should serve as a \"turning point\" that lulls U.S. leaders out of a \"false sense of securit… [+3173 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Ben Kesslen",
+    "title": "Jimmy Fallon, Gwyneth Paltrow, Madonna, other celebs sued over NFT promotion - New York Post ",
+    "description": "The suit says celebs peddled the non-fungible tokens without disclosing their investment in the company behind them, Yuga Labs.",
+    "url": "https://nypost.com/2022/12/11/jimmy-fallon-gwyneth-paltrow-madonna-sued-for-hawking-nfts/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/nft-endorsements-comp.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-12-11T17:53:00Z",
+    "content": "A slew of celebrities — including Jimmy Fallon, Gwyneth Paltrow and Madonna — are being accused of fraud for hawking Bored Ape Yacht Club NFTs, according to a recent federal lawsuit.\r\nThe group of pl… [+2488 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Volkswagen's Skoda considers withdrawing from China, Automobilwoche reports - Reuters",
+    "description": "Czech carmaker Skoda Auto, part of Volkswagen <a href=\"https://www.reuters.com/companies/VOWG_p.DE\" target=\"_blank\">(VOWG_p.DE)</a>, is considering withdrawing from China and will make a final decision next year, CEO Klaus Zellmer was quoted as saying by the …",
+    "url": "https://www.reuters.com/business/autos-transportation/volkwagens-skoda-considers-withdrawing-china-media-report-2022-12-11/",
+    "urlToImage": "https://www.reuters.com/resizer/doOybSmwCo3zHL1YsF1tI8adpsE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GQFHICTS75MABOC44TGIKI7I2U.jpg",
+    "publishedAt": "2022-12-11T16:23:00Z",
+    "content": "BERLIN, Dec 11 (Reuters) - Czech carmaker Skoda Auto, part of Volkswagen (VOWG_p.DE), is considering withdrawing from China and will make a final decision next year, CEO Klaus Zellmer was quoted as s… [+918 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Chris Clark",
+    "title": "‘One of the worst money mistakes': This Harvard-schooled economist says retiring early is a move you'll 'regret' — here are 3 big problems with hanging it up in your 50s - Yahoo Finance",
+    "description": "Early retirement is a dream for many — that can turn into a nightmare.",
+    "url": "https://finance.yahoo.com/news/one-worst-money-mistakes-harvard-160000138.html",
+    "urlToImage": "https://media.zenfs.com/en/moneywise_327/876e4d89e9b7ec26ff35c04144b57836",
+    "publishedAt": "2022-12-11T16:00:00Z",
+    "content": "One of the worst money mistakes': This Harvard-schooled economist says retiring early is a move you'll 'regret' here are 3 big problems with hanging it up in your 50s\r\nRetire early? As the old saying… [+4016 chars]"
+    }
+    ]
+    }
